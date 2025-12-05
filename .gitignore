@@ -9,3 +9,6 @@ data/
 # Editor settings
 .vscode/
 .idea/
+
+# Environment variables
+.env
