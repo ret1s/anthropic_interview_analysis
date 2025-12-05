@@ -51,7 +51,6 @@
 ## Scientists themes
 
 
-```markdown
 # Themes from Scientist Interviews
 
 ## 1. AI as a Verification and Time-Saving Tool
@@ -73,4 +72,3 @@
 ## 5. Security and Ethical Constraints on AI Use
 - **Example:** Classified environments restrict AI use due to security policies, limiting its application in sensitive research.
 - **Example:** Ethical concerns about AI's role in research integrity and originality influence its adoption in literature reviews and manuscript writing.
-```
