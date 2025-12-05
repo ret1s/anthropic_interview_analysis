@@ -1,4 +1,6 @@
-# Anthropic Interviewer Analysis
+<h1 align="center">Anthropic Interviewer Analysis</h1>
+
+![Anthropic Interviewer Analysis banner](anthropic_interview_analysis_banner.png)
 
 Lightweight workspace for exploring the public `Anthropic/AnthropicInterviewer` dataset from Hugging Face. The notebook loads all three splits (workforce, creatives, scientists), inspects basic stats, surfaces TF-IDF keywords, and uses OpenAI models to extract per-group themes that can be exported to markdown for diagramming.
 
