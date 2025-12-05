@@ -1,0 +1,11 @@
+.venv/
+__pycache__/
+.ipynb_checkpoints/
+.DS_Store
+
+# Local data/output
+data/
+
+# Editor settings
+.vscode/
+.idea/
